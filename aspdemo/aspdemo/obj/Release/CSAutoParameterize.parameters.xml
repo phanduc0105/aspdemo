@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="aspDemo_Model-Web.config Connection String" description="aspDemo_Model Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:demoseverzzz.database.windows.net,1433;Initial Catalog=aspDemo;&#xD;&#xA;    User Id=userdemo@demoseverzzz;Password=tD@123456;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\aspdemo\\aspdemo\\aspdemo\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='aspDemo_Model']/@connectionString" />
+  </parameter>
+</parameters>
